@@ -35,3 +35,8 @@ System.out.println();
 printPattern(n);  
 }  
 }  
+1
+2
+3
+4
+praveen
